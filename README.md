@@ -1,2 +1,2 @@
 # ib-r
-Ineractive Brokers headless + R + selected packages
+Interactive Brokers headless + R + selected packages
